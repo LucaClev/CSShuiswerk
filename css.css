@@ -1,0 +1,129 @@
+#header{
+    width: 100%;
+    height: 100px;
+    background-color: #D69AED;
+}
+
+table, th, td{
+    border:2px solid;
+    width: 400px;
+    height: 100px;
+}
+
+#tabel1{
+    background-color: #CFFFD1;
+    color: #000000;
+    border-color: #000000;
+}
+
+#tabel2{
+    background-color: #66FF6C;
+    color: #616161;
+    border-color: #000000;
+}
+
+#tabel3{
+    background-color: #1B941F;
+    color: #bebebe;
+    border-color: #000000;
+}
+
+#tabel4{
+    background-color: #004F03;
+    color: #ffffff;
+    border-color: #000000;
+}
+
+#tabel5{
+    background-color: #b0efff;
+}
+
+#tabel6{
+    background-color: #28d4ff;
+}
+
+#tabel7{
+    background-color: #3182b8;
+}
+
+#tabel8{
+    background-color: #1600d8;
+}
+
+#tabel9{
+    background-color: #FFD9F9;
+    color: #1cff7a;
+    border-color: #000000;
+}
+
+#tabel10{
+    background-color: #FF80EB;
+    color: #276300ab;
+    border-color: #000000;
+}
+
+#tabel11{
+    background-color: #B8009B;
+    color: #63ffdd;
+    border-color: #000000;
+}
+
+#tabel12{
+    background-color: #70005F;
+    color: #e1ff5d;
+    border-color: #000000;
+}
+
+#tabel13{
+    background-color: #f8ffbc;
+}
+
+#tabel14{
+    background-color: #fcff32;
+}
+
+#tabel15{
+    background-color: #757300;
+}
+
+#tabel16{
+    background-color: #373b00;
+}
+
+#img1{
+    width: 100px;
+}
+
+#img2{
+    width: 100px;
+}
+
+#img3{
+    width: 100px;
+}
+
+#img4{
+    width: 100px;
+}
+
+#img5{
+    width: 100px;
+}
+
+#img6{
+    width: 100px;
+}
+
+#img7{
+    width: 100px;
+}
+
+#img8{
+    width: 100px;
+}
+
+#footer{
+    width: 100%;
+    height: 100px;
+    background-color: #9A8FFF;
+}
